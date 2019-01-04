@@ -1,0 +1,20 @@
+name: "Lee-Xieng Yang"
+navbar:
+  title: "Lee-Xieng Yang"
+  left:
+    - text: "Publications"
+      href: publications.html
+    - text: "Courses"
+      href: courses.html
+  
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/SebastianYang
+    - icon: fa-linkedin fa-lg
+      href: www.linkedin.com/in/SebastainLXYang
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

@@ -1,0 +1,38 @@
+---
+---
+<div style="padding-left: 6em; text-indent: -4em">
+<h4>
+Required courses
+</h4>
+</div>
+<div style="padding-left: 12em; text-indent: -8em">
+<p>
+Statistics
+</p>
+<p>
+Experimental Design
+</p>
+</div>
+
+<div style="padding-left: 6em; text-indent: -4em">
+<p>
+<h4>
+Selective courses
+</h4>
+</p>
+</div>
+
+<div style="padding-left: 12em; text-indent: -8em">
+<p>
+Application of Neural Network Models in Psychology
+</p>
+<p>
+Application of Big Data Analysis in Psychology
+</p>
+<p>
+Bayesian Statistics
+</p>
+<p>
+Programming with R
+</p>
+</div>
