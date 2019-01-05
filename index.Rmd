@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="Snapseed.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="IMG_2096.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 I am a cognitive psychologist in [National Chengchi University in Taiwan](http://www.nccu.edu.tw/?locale=en). My major research interest is investigating human cognitive functions, including <font color="#0066FF">categorization</font>, <font color="#0066FF">function learning</font>, <font color="#0066FF">working memory</font>, and <font color="#0066FF">forecasting</font>. In order to understand how cognitive functions work, I do not only conduct behavioral experiments, but also develop computational models (i.e., <font color="#FF0000">neural network models</font> or <font color="#FF0000">Bayesian models</font>) to account for human cognitive functions. I also explore to what extent individuals' performance in complex economic situation (e.g., earned profits in the games of <font color="#0066FF">beauty contest</font> or <font color="#0066FF">double acuation</font>) can be explained by their fundamental cognitive functions (e.g., working memory capacity).
 
