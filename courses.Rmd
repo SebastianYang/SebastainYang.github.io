@@ -10,7 +10,7 @@ Required courses
 Statistics
 </p>
 <p>
-Experimental Design
+<a href="http://clanlab.dyndns.org/~lxyang/ExpDesign.html">Experimental Design</a>
 </p>
 </div>
 
